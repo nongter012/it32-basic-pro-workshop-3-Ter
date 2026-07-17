@@ -13,6 +13,20 @@
 
 
 
+# name = input("ชื่อที่ใช้กรอก: ")
+
+# def i(name):
+#     u = 0
+#     for m in name:
+#         u += 1
+#     return u
+
+# name_count = i(name)
+# print(f"{name} มี {name_count} คำ")
+
+
+
+
 # name_list = ["Ter", "Nine"]
 # name_list.append("Dream")
 # name_list.append(67) # เพิ่มได้ทีละ 1 ในตัวท้าย
