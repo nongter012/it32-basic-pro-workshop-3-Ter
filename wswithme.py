@@ -1,14 +1,13 @@
-# n = int(input("จำนวนเงินที่ต้องการเก็บ: "))
-# m = 0
-# shops = 0
+# name = input("ชื่อที่ใช้กรอก: ")
 
-# while True:
-#     shops += 1
-#     m += int(input(f"ร้านที่ {shops}   จำนวนเงินที่เก็บได้: "))
-#     if m >= n:
-#         print("ครบจำนวนที่กำหนดแล้ว หยุดเก็บเงินเพิ่ม")
-#         break
-# print("จบการเก็บเงินแล้ว")
+# def i(name):
+#     u = 0
+#     for m in name:
+#         u += 1
+#     return u
+
+# name_count = i(name)
+# print(f"{name} มี {name_count} คำ")
 
 
 
